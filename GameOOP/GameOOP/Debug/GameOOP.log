@@ -1,8 +1,14 @@
-﻿  Console.cpp
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,31): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-  Source.cpp
+﻿  CCAR.cpp
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CCAR.cpp(7,22): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CCAR.cpp(7,39): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CCAR.cpp(7,56): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CCAR.cpp(8,28): warning C4309: 'argument': truncation of constant value
+  CTRUCK.cpp
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CTRUCK.cpp(7,30): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CTRUCK.cpp(7,47): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CTRUCK.cpp(8,24): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CTRUCK.cpp(8,41): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CTRUCK.cpp(8,58): warning C4309: 'argument': truncation of constant value
+  CVEHICLE.cpp
   Generating Code...
   GameOOP.vcxproj -> C:\Users\GF75\Desktop\CC\GameOOP\Debug\GameOOP.exe
