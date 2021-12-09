@@ -1,0 +1,8 @@
+﻿  Console.cpp
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\Console.cpp(45,31): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Source.cpp
+  Generating Code...
+  GameOOP.vcxproj -> C:\Users\GF75\Desktop\CC\GameOOP\Debug\GameOOP.exe
