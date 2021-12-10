@@ -145,6 +145,7 @@
     <ClCompile Include="CDINAUSOR.cpp" />
     <ClCompile Include="Console.cpp" />
     <ClCompile Include="CPEOPLE.cpp" />
+    <ClCompile Include="CTRAFFICLIGHT.cpp" />
     <ClCompile Include="CTRUCK.cpp" />
     <ClCompile Include="CVEHICLE.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -156,8 +157,10 @@
     <ClInclude Include="CDINAUSOR.h" />
     <ClInclude Include="Console.h" />
     <ClInclude Include="CPEOPLE.h" />
+    <ClInclude Include="CTRAFFICLIGHT.h" />
     <ClInclude Include="CTRUCK.h" />
     <ClInclude Include="CVEHICLE.h" />
+    <ClInclude Include="Definition.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
