@@ -144,6 +144,7 @@
     <ClCompile Include="CCAR.cpp" />
     <ClCompile Include="CDINAUSOR.cpp" />
     <ClCompile Include="Console.cpp" />
+    <ClCompile Include="CPEOPLE.cpp" />
     <ClCompile Include="CTRUCK.cpp" />
     <ClCompile Include="CVEHICLE.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -154,6 +155,7 @@
     <ClInclude Include="CCAR.h" />
     <ClInclude Include="CDINAUSOR.h" />
     <ClInclude Include="Console.h" />
+    <ClInclude Include="CPEOPLE.h" />
     <ClInclude Include="CTRUCK.h" />
     <ClInclude Include="CVEHICLE.h" />
   </ItemGroup>
