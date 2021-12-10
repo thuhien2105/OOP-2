@@ -30,6 +30,15 @@
     <ClCompile Include="CTRUCK.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CANIMAL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CBIRD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDINAUSOR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Console.h">
@@ -42,6 +51,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CTRUCK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CANIMAL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CBIRD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDINAUSOR.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

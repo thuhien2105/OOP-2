@@ -139,14 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CANIMAL.cpp" />
+    <ClCompile Include="CBIRD.cpp" />
     <ClCompile Include="CCAR.cpp" />
+    <ClCompile Include="CDINAUSOR.cpp" />
     <ClCompile Include="Console.cpp" />
     <ClCompile Include="CTRUCK.cpp" />
     <ClCompile Include="CVEHICLE.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CANIMAL.h" />
+    <ClInclude Include="CBIRD.h" />
     <ClInclude Include="CCAR.h" />
+    <ClInclude Include="CDINAUSOR.h" />
     <ClInclude Include="Console.h" />
     <ClInclude Include="CTRUCK.h" />
     <ClInclude Include="CVEHICLE.h" />
