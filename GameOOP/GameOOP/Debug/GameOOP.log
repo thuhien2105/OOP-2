@@ -1,7 +1,1 @@
-﻿  CPEOPLE.cpp
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CPEOPLE.cpp(48,25): warning C4309: 'argument': truncation of constant value
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CPEOPLE.cpp(49,25): warning C4309: 'argument': truncation of constant value
-  CTRAFFICLIGHT.cpp
-C:\Users\GF75\Desktop\CC\GameOOP\GameOOP\CTRAFFICLIGHT.cpp(56,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
-  GameOOP.vcxproj -> C:\Users\GF75\Desktop\CC\GameOOP\Debug\GameOOP.exe
+﻿  GameOOP.vcxproj -> C:\Users\GF75\Desktop\CC\GameOOP\Debug\GameOOP.exe

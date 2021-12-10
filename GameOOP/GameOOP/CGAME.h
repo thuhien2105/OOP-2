@@ -1,0 +1,45 @@
+﻿#pragma once
+
+#include  "thread"
+#include "Console.h"
+#include "Definition.h"
+#include "CVEHICLE.h"
+#include "CPEOPLE.h"
+#include <iostream>
+#include <conio.h>
+#include <vector>
+#include <map>
+#include "CANIMAL.h"
+#include "CTRAFFICLIGHT.h"
+#include <fstream>
+
+
+
+
+
+using namespace std;
+class CGAME {
+private:
+	CPEOPLE* mPeople;
+	vector<CVEHICLE*> mVehicles;
+	vector<CANIMAL*> mAnimals;
+	CTRAFFICLIGHT* mTFlightCar, * mTFlightTruck;
+
+	void SpawnObject();
+	void printLevel();
+	void printHelp();
+	int m_block;
+	int m_level;
+public:
+
+	CGAME(int level = LEVEL_1);  //Chuẩn bị dữ liệu cho tất cả các đối tượng
+	void DrawGame(); //Thực hiện vẽ trò chơi ra màn hình sau khi có dữ liệu
+	~CGAME(); // Hủy tài nguyên đã cấp phát
+	CPEOPLE* GetPeople();//Lấy thông tin người
+	void loadGame(const string& fileName, bool& succeeded); // Thực hiện tải lại trò chơi đã lưu
+	void saveGame(const string& fileName); // Thực hiện lưu lại dữ liệu trò chơi
+	void UpdatePosPeople(enum MOVING); //Thực hiện điều khiển di chuyển của CPEOPLE
+	void UpdatePosVehicle(); //Thực hiện cho CTRUCK & CCAR di chuyển
+};
+
+

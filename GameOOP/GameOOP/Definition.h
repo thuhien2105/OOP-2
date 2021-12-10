@@ -8,3 +8,25 @@
 
 #define COUNTDOWNCHANGELIGHT 10
 #define COUNTDOWN 18
+
+#define LEVEL_1 4
+#define LEVEL_2 5
+#define LEVEL_3 6
+#define LEVEL_4 7
+#define LEVEL_5 8
+#define LEVEL_6 9
+#define LEVEL_7 10
+
+#define XPLAYER 45 
+#define YPLAYER 21
+
+#define LANE_1 5
+#define LANE_2 9
+#define LANE_3 13
+#define LANE_4 17
+
+#define XINFO 105
+#define YINFO 12
+
+#define XPAUSE 10
+#define YPAUSE 24
