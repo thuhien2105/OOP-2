@@ -1,6 +1,7 @@
 #pragma once
 #include "Console.h"
 #include "CPEOPLE.h"
+#include "CGAME.h"
 
 enum MOVING {
 	ILDE = 0,

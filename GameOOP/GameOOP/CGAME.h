@@ -40,6 +40,13 @@ public:
 	void saveGame(const string& fileName); // Thực hiện lưu lại dữ liệu trò chơi
 	void UpdatePosPeople(enum MOVING); //Thực hiện điều khiển di chuyển của CPEOPLE
 	void UpdatePosVehicle(); //Thực hiện cho CTRUCK & CCAR di chuyển
+	void ResetGame(); // Thực hiện thiết lập lại toàn bộ dữ liệu như lúc đầu
+	void ExitGame(thread&, bool&); // Thực hiện thoát Thread
+	void StartGame(); // Thực hiện bắt đầu vào trò chơi
+	void PauseGame(HANDLE); // Tạm dừng Thread
+	void ResumeGame(HANDLE); //Quay lai Thread
+	void UpdatePosAnimal();//Thực hiện cho CDINAUSOR & CBIRD di chuyển
+	void SetNextLevel();
 };
 
 

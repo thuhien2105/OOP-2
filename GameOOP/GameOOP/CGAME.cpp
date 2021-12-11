@@ -306,6 +306,72 @@ void CGAME::UpdatePosVehicle()
 	}
 }
 
+void CGAME::ResetGame() {
+	m_level = LEVEL_1;
+	this->StartGame();
+}
+
+void CGAME::ExitGame(thread& t, bool& IS_RUNNING) {
+	IS_RUNNING = false;
+	if (t.joinable())
+		t.join();
+}
 
 
+void CGAME::StartGame()
+{
+	system("cls");
+	DrawBoundary();
+	SpawnObject();
+	if (mPeople)
+		delete mPeople;
+	this->mPeople = new CPEOPLE();
+	printLevel();
+	printHelp();
+}
+
+void CGAME::PauseGame(HANDLE handle) {
+	SuspendThread(handle);
+}
+
+void CGAME::ResumeGame(HANDLE handle) {
+	ResumeThread(handle);
+}
+
+void CGAME::UpdatePosAnimal() {
+	for (CANIMAL* animal : mAnimals) {
+		animal->Move(m_block * m_level);
+	}
+}
+
+void CGAME::SetNextLevel() {
+	switch (m_level) {
+	case LEVEL_1: {
+		m_level = LEVEL_2;
+		break;
+	}
+	case LEVEL_2: {
+		m_level = LEVEL_3;
+		break;
+	}
+	case LEVEL_3: {
+		m_level = LEVEL_4;
+		break;
+	}
+	case LEVEL_4: {
+		m_level = LEVEL_5;
+		break;
+	}
+	case LEVEL_5: {
+		m_level = LEVEL_6;
+		break;
+	}
+	case LEVEL_6: {
+		m_level = LEVEL_7;
+		break;
+	}
+	default: break;
+	}
+
+}
 
