@@ -1,0 +1,53 @@
+﻿  CANIMAL.cpp
+  CBIRD.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CBIRD.h(9,30): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CBIRD.h(10,24): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CBIRD.h(10,47): warning C4309: 'argument': truncation of constant value
+  CCAR.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(8,23): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(8,40): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(8,57): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(9,29): warning C4309: 'argument': truncation of constant value
+  CDINAUSOR.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(9,28): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(9,45): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(9,61): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(10,35): warning C4309: 'argument': truncation of constant value
+  CGAME.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(8,31): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(8,48): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(9,25): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(9,42): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(9,59): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(8,23): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(8,40): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(8,57): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CCAR.h(9,29): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CBIRD.h(9,30): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CBIRD.h(10,24): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CBIRD.h(10,47): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(9,28): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(9,45): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(9,61): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CDINAUSOR.h(10,35): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CGAME.cpp(12,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Console.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\Console.cpp(45,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\Console.cpp(45,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\Console.cpp(45,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\Console.cpp(45,31): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  CPEOPLE.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CPEOPLE.cpp(48,25): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CPEOPLE.cpp(49,25): warning C4309: 'argument': truncation of constant value
+  CTRAFFICLIGHT.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRAFFICLIGHT.cpp(56,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CTRUCK.cpp
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(8,31): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(8,48): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(9,25): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(9,42): warning C4309: 'argument': truncation of constant value
+C:\Users\GF75\Desktop\OOP-2\RoadCrossing\RoadCrossing\CTRUCK.h(9,59): warning C4309: 'argument': truncation of constant value
+  CVEHICLE.cpp
+  Source.cpp
+  Generating Code...
+  RoadCrossing.vcxproj -> C:\Users\GF75\Desktop\OOP-2\RoadCrossing\x64\Debug\RoadCrossing.exe
