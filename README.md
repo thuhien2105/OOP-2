@@ -1,8 +1,7 @@
 # OOP-2
 
-Hiền: CVEHICLE, CCAR, CTRUCK, CGAME( CGAME, DrawGame(), ~CGAME(), GetPeople(), StartGame(), loadGame(), saveGame(), UpdatePosPeople(), UpdatePosVehicle() ), 
-vẽ class diagram, làm report.
-Chánh: CANIMAL, CBIRD, CDINAUSOR, CGAME( ResetGame(), ExitGame(), PauseGame(), ResumeGame(), UpdatePosAnimal(), SetNextLevel() ), Console.
+Hiền: CVEHICLE, CCAR, CTRUCK, CGAME( CGAME, DrawGame(), ~CGAME(), GetPeople(), StartGame(), loadGame(), saveGame(), UpdatePosPeople(), UpdatePosVehicle() ), làm report.
+Chánh: CANIMAL, CBIRD, CDINAUSOR, CGAME( ResetGame(), ExitGame(), PauseGame(), ResumeGame(), UpdatePosAnimal(), SetNextLevel() ), Console, vẽ class diagram.
 An: CPEOPLE, CTRAFFICLIGHT, Definition, Source.
 
 
@@ -26,5 +25,4 @@ Khi vào game, bạn sẽ có bảng HELP để hỗ trợ gồm:
 
 Nếu không may mắn bạn chết:
 - Nhấn phím Y để bắt đầu lại.
-- Nhấn phím B để trở lại menu game.
-- Nhấn phím bất kì để thoát game. 
+- Nhấn phím B để trở lại menu game. 
